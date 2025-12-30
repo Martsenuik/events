@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: "/recipes"
+  base: "/events"
 })
