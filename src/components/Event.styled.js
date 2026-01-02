@@ -35,7 +35,7 @@ export const Item = styled.li`
 `;
 
 export const Name = styled.li`
-   font-size:16px;
+
    font-weight: bold;
    color: #b10000ff;
 `;
