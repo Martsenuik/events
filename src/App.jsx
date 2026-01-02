@@ -1,11 +1,11 @@
 import { useState } from "react";
+import eventData from "../upcoming-events.json";
+import { PageBoard } from "./components/PageBoard";
 
 function App() {
   return (
     <>
-      <h2>
-        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-      </h2>
+      <PageBoard eventData={eventData} />
     </>
   );
 }
