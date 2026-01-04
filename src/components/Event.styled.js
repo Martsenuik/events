@@ -31,6 +31,7 @@ export const Item = styled.li`
     box-shadow:
       inset 0 0 45px rgba(255, 0, 0, 0.5),
       0 0 10px rgba(0, 0, 0, 0.6);
+      
   }
 `;
 
